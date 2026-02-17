@@ -138,12 +138,12 @@ This project helps understand:
 
 ## 👨‍💻 Author
 
-**Karthikeyan V**
-UI/UX Designer & Web Developer
+**Srinika N**
+UI/UX Designer • AI & ML Enthusiast
 
-📧 [karthikeyanv0069@gmail.com](mailto:karthikeyanv0069@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/karthi-keyan-v-767271375
-💻 GitHub: https://github.com/karthikeyan0069
+📧 Email: [srinikanatraj@gmail.com](mailto:srinikanatraj@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/srinika-n-659771372/
+💻 GitHub: https://github.com/srinikanatraj
 
 ---
 
